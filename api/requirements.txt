@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-socketio
+pydantic
+supabase
+google-genai
+python-dotenv
+asyncpg
+pytest
+httpx
+pydantic-settings
+email-validator
